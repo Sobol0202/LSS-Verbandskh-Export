@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Gebäudeinformationen auslesen und als CSV exportieren
-// @namespace    http://tampermonkey.net/
+// @name         LSS-VerbandsKH export
+// @namespace    https://www.leitstellenspiel.de/
 // @version      0.1alpha
 // @description  Liest alle Verbands Krankenhäuser aus und exportiert sie als CSV-Datei.
 // @match        https://www.leitstellenspiel.de/vehicles/*
